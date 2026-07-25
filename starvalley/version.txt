@@ -1,1 +1,1 @@
-StarValley_alpha0.5.1
+StarValley_beta1.0.0
